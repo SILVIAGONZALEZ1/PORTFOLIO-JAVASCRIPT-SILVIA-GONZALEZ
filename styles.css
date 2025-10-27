@@ -1,0 +1,46 @@
+body {
+        font-family: Arial, sans-serif;
+        background-color: #111;
+        color: #00ffcc;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+}
+
+section {
+        background-color: blue;
+        color: rgb(203, 197, 197);
+}
+
+
+
+#reloj {
+        font-size: 4em;
+        letter-spacing: 4px;
+}
+
+.calculadora {
+        background: #222;
+        padding: 20px;
+        border-radius: 10px;
+        box-shadow: 0 0 10px #0005;
+}
+
+input {
+        width: 100%;
+        height: 50px;
+        font-size: 1.5em;
+        text-align: right;
+        margin-bottom: 10px;
+        border: none;
+        border-radius: 5px;
+        padding: 5px;
+}
+
+button {
+        width: 60px;
+        height: 60px;
+        margin: 5px;
+        font-size: 1.2em;
+        cursor: pointer;
+}
